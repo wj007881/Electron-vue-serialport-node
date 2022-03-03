@@ -24,7 +24,7 @@
 7. 执行 `npm install`
 8. 执行 `npm run electron:serve`  
 ## 项目截图
-![输入图片说明](src/static/image/image.png)
+![image](https://user-images.githubusercontent.com/26053141/156504343-a88b1c27-93c6-415d-a4c0-3d5019092202.png)
 ## 鸣谢
 - [Electron](https://github.com/electron/electron) :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [Vue](https://github.com/vuejs/vue) 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
