@@ -1,4 +1,4 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/cklwblove/vue-cli3-template)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://github.com/wj007881/Electron-vue-serialport-node)
 
 # [Electron-vue-serialport-node](https://github.com/wj007881/Electron-vue-serialport-node)
 
