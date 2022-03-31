@@ -1,3 +1,12 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/cklwblove/vue-cli3-template)
+
+# [vue-cli3-template](https://github.com/cklwblove/vue-cli3-template)
+
+[![license](https://img.shields.io/badge/vue-2.5.17-brightgreen.svg)](https://github.com/vuejs/vue)
+[![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/cklwblove/vue-cli3-template/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/cklwblove/vue-cli3-template.svg?branch=master)](https://travis-ci.org/cklwblove/vue-cli3-template)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcklwblove%2Fvue-cli3-template.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcklwblove%2Fvue-cli3-template?ref=badge_shield)
+![Alt](https://repobeats.axiom.co/api/embed/1558e9ced55af641ce5f50224e6b4486b8cf1c9d.svg "Repobeats analytics image")
 # LAAT
 > 使用 Vue + Electron + node-serialport 实现的自动化测试管理系统,搭配客户端（https://github.com/wj007881/Remote_client）使用 
   A software for Auto Test implemented using Vue + Electron + node-serialport
